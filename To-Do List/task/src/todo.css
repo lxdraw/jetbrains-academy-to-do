@@ -1,0 +1,18 @@
+#header {
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+}
+
+#main-div {
+    display: flex;
+    flex-direction: column;
+}
+
+#list-container {
+    
+}
+
+.checked {
+    text-decoration: line-through;
+}
